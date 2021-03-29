@@ -13,10 +13,7 @@ header-includes:
    - \usepackage{quoting}
    - \usepackage{indentfirst}
    - \setlength{\parindent}{1.25cm}
-output: 
-    pdf_document:
-      fig_caption: true
-      keep_tex:  true
+output: pdf_document
       
 linestretch: 1.5
 fontsize: 12pt
